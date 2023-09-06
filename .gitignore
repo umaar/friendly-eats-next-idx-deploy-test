@@ -1,0 +1,6 @@
+lib/firebase/config.js
+.next/
+node_modules
+**/.firebaserc
+**/node_modules/
+**/*-debug.log
